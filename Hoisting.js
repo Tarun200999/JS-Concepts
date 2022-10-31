@@ -1,6 +1,10 @@
-// getName();
+// Golden Rules:
+//1. Variable declarations are scanned and are made undefined
+//2. Function declarations are scanned and are made available
 
 // Accessing before Intialization
+
+
 
 // Before execution there is memory assignment is done,
 // due to that variables will have undefined by defualt and function name will have function body in it.
